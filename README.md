@@ -1,4 +1,4 @@
-# My website
+# My site project
 
 <p>This project just for learning github and git</p>
 
