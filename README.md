@@ -110,3 +110,4 @@ class Post(db.Model):
 
 
 # TASK 1 ADDED
+# TASK 2 ADDED
