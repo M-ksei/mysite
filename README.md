@@ -107,3 +107,6 @@ class Post(db.Model):
     picture = Column(String(256), nullable = False)
     post_date = Column(DateTime(), default = dt.datetime.utcnow, primary_key = True)
 ```
+
+
+# TASK 1 ADDED
